@@ -28,7 +28,7 @@ print('ur mom')
 
 ### Here is a list of pictures of family dogs plz enjoy :D 
 
-- ![kylo and milo](image.png) Kylo the corgi & Milo the aussie shepard!
+- ![kylo and milo](images/kylomilo.webp) Kylo the corgi & Milo the aussie shepard!
 - ![gumbo](images/gumbo.jpg)
   Gumbo! (I have no idea what he is D:)
 - ![enzo](images/enzo.jpg)
